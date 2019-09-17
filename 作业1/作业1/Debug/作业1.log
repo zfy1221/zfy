@@ -1,0 +1,4 @@
+﻿  score.c
+c:\users\ay\desktop\作业1\作业1\score.c(97): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ay\desktop\作业1\作业1\score.c(176): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  作业1.vcxproj -> C:\Users\AY\Desktop\作业1\Debug\作业1.exe
